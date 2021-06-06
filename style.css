@@ -1,0 +1,36 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: greenyellow;
+
+
+}
+#bmw{
+  color: blue;
+  text-align: center;
+padding: 10px
+}
+a{
+  color: red;
+  text-decoration: none;
+  float: right;
+}
+#m3{
+  color:green;
+  text-align: center;
+
+}
+p{
+  text-align: center;
+padding: 20px;
+color: white;
+
+
+}
+footer{
+  text-align: center;
+  background-color: pink;
+
+}
