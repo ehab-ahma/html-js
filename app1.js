@@ -1,3 +1,5 @@
+
+liking();
 function liking(){
 var liking = prompt("how much do you like your car");
    
@@ -5,7 +7,7 @@ while( liking > 10 ){
   liking = prompt("sory it must be less than 10")
 }
 }
-liking();
+
 var i =1;
 var stars = prompt("how do you rate as from 1 - 5")
 function addingstars(){
